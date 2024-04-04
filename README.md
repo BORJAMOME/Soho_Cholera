@@ -53,6 +53,12 @@ snow_map <- leaflet() |>
                    options = layersControlOptions(collapsed = FALSE))
 ```
 ``` r
+
+
   # Show interactive map
   snow_map
 ```
+
+![](Interactive_map.png)
+
+
