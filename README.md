@@ -59,6 +59,6 @@ snow_map <- leaflet() |>
   snow_map
 ```
 
-![](Interactive_Map.png)
+![](Interactive_map.png)
 
 
