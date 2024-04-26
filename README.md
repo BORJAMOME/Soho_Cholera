@@ -1,8 +1,10 @@
 # The Cholera Map That Transformed the World: John Snow's Data Journalism 💀
-Visualization in R of the cholera outbreak in the London neighborhood of Soho by John Snow.
+
+# Overview
+This project presents a visualization in R of the cholera outbreak in the London neighborhood of Soho by John Snow. It highlights the significance of data journalism and spatial analysis in understanding and combating infectious diseases.
 
 # Precedents
-The cholera outbreak on Broad Street, London, in 1854, was studied by John Snow, who used data mapping to track cases. Snow found that most cases were clustered around a water pump on Broad Street. This analysis revealed a clear pattern of cholera spread related to water quality. His discovery was crucial for understanding infectious diseases and led to improvements in public health. This innovative approach laid the groundwork for future epidemiological research and reforms in sanitation and water supply systems. Snow transformed the way infectious diseases were addressed, emphasizing the importance of data mapping in epidemiological investigation.
+The cholera outbreak on Broad Street, London, in 1854, was a pivotal event studied by John Snow. Utilizing data mapping techniques, Snow tracked cases and discovered a clustering of cholera cases around a water pump on Broad Street. His analysis revealed a clear pattern of cholera spread related to water quality, leading to crucial insights into infectious disease transmission. Snow's work laid the foundation for modern epidemiological research and prompted reforms in public health practices, particularly in sanitation and water supply systems.
 
 ![](Snow-cholera-map.jpg)
 
@@ -61,4 +63,5 @@ snow_map <- leaflet() |>
 
 ![](Interactive_map.png)
 
-
+# Credits
+This project was developed by Borja Mora.
