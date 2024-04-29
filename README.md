@@ -1,4 +1,6 @@
 # The Cholera Map That Transformed the World: John Snow's Data Journalism 💀
+  <img src="https://img.shields.io/badge/Language-R-blue" alt="Language">
+
 
 # Overview
 This project presents a visualization in R of the cholera outbreak in the London neighborhood of Soho by John Snow. It highlights the significance of data journalism and spatial analysis in understanding and combating infectious diseases.
