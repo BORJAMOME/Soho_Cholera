@@ -12,8 +12,6 @@ El brote de cólera en Broad Street, Londres, en 1854, fue un evento crucial est
 
 
 
-## Figures
-
 ``` r
 
 # Cargar librerías necesarias
@@ -26,7 +24,7 @@ data("snow_deaths")
 data("snow_pumps")
 ```
 ``` r
-#C argar los datos de muertes y bombas de agua
+# Cargar los datos de muertes y bombas de agua
 death_icon <- makeIcon(
   iconUrl = "https://emojicdn.elk.sh/💀",
   iconWidth = 15, iconHeight = 15
